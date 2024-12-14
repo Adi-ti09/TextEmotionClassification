@@ -10,7 +10,7 @@
 
 ## **Introduction**
 
-           ### **Welcome to Text Emotion Classification**
+           Welcome to Text Emotion Classification
           
     This project aims to classify text using machine learning algorithm. You can enter a 
     sentence of you choice and click on "Classify" and it will label your mood.
@@ -57,6 +57,6 @@
               5. Error propagation: The project uses pre-trained models and datasets, which may contain errors or biases that can propagate to the final results.
 
 ## **Contributing**
-          We welcome contributions to the Text Emotion Classification project
+          I welcome contributions to the Text Emotion Classification project.
 
 
